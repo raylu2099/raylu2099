@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### about me
+- I'm an entrepreneur in education technology industry
+- I'm learning LLMs and python
 <!--
 **raylu2099/raylu2099** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
